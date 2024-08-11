@@ -1,5 +1,5 @@
 # **Automated Multiple-Choice Question Generation Using SpaCy**
-![Automated MCQ Generator]()
+![Automated MCQ Generator](https://github.com/rdcodings/Automated-MCQ-Generation-Using-SpaCy/blob/99322bebde966f7f0a61f6f4f05577867a59e68e/Work%20Sample.JPG)
 
 ### Overview
 
